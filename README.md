@@ -12,7 +12,7 @@ teamStats.ipynb contains code that returns a csv file when you provide a team id
   * Losses
   * Points
   * Goals Per Game
-  * Game Date of First Game of Season
+  * Game Date of First Game of Season (includes pre-season)
   * Opponent Name in First Game of Season
 
 
