@@ -32,7 +32,7 @@ playerStats.ipynb returns players information based on an input of a player id a
 
 Outcome csvs are titled "playerInfo.csv" and "teamInfo.csv." Each time the two programs in the notebook file are called, the csvs will update. 
 
-The code to call the two pipelines are at the bottom of the notebook file.
+The code to call the two pipelines are at the bottom of the notebook file. I also included Python versions of the two notebooks.
 
 To test the pipelines, I called the two pipelines with the below inputs: 
 
@@ -42,7 +42,7 @@ getStatsForYear('2', '20172018')
 
 which created the playerInfo.csv file and the teamInfo.csv file which are populated in this repo.
 
-To test, I cross referenced my outcomes with Wikipedia stats.
+To test, I cross referenced my outcomes with Wikipedia stats and called the pipelines in the testing.ipnyb file.
 
 
 ## Details
