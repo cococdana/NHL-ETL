@@ -42,6 +42,8 @@ getStatsForYear('2', '20172018')
 
 which created the playerInfo.csv file and the teamInfo.csv file which are populated in this repo.
 
+To test, I cross referenced my outcomes with Wikipedia stats.
+
 
 ## Details
 
