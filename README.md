@@ -48,5 +48,5 @@ To test, I cross referenced my outcomes with Wikipedia stats.
 ## Details
 
 All code was written in a Jupyter notebook.
-To run locally, you must have import pandas, numpy, and requests installed.
+To run locally, you must have pandas, numpy, and requests installed.
 
