@@ -47,6 +47,6 @@ To test, I cross referenced my outcomes with Wikipedia stats and called the pipe
 
 ## Details
 
-All code was written in a Jupyter notebook.
+All code was written in Jupyter notebooks.
 To run locally, you must have pandas, numpy, and requests installed.
 
